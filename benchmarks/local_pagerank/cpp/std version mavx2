@@ -1,0 +1,224 @@
+std version mavx2
+
+Type: default
+Format: COO
+Input file: /mnt/d/Users/Jorta/Documents/Uni/4thYear/CSC3021_Concurrent_Programming/Assignments/graphs/LiveJournal_dir.coo
+GraphType format
+Reading input: 8.7371417 seconds
+Initialisation: 0.288304 seconds
+iteration 1: delta=0.7657405697817449 xnorm=1 time=0.7925526000000001 seconds
+iteration 2: delta=0.2427457202670431 xnorm=1 time=0.7935928000000001 seconds
+iteration 3: delta=0.08351246007930319 xnorm=1 time=0.7932787 seconds
+iteration 4: delta=0.0413847966303565 xnorm=1 time=0.7910694 seconds
+iteration 5: delta=0.02335677813822932 xnorm=1 time=0.7949094000000001 seconds
+iteration 6: delta=0.01465310248268644 xnorm=1 time=0.8037511000000001 seconds
+iteration 7: delta=0.00968418109252497 xnorm=1 time=0.7989781 seconds
+iteration 8: delta=0.006645481565488928 xnorm=1 time=0.7865388000000001 seconds
+iteration 9: delta=0.004687077085613662 xnorm=1 time=0.7897427 seconds
+iteration 10: delta=0.003379595920608532 xnorm=1 time=0.8003866000000001 seconds
+iteration 11: delta=0.00248139928002146 xnorm=1 time=0.7948031000000001 seconds
+iteration 12: delta=0.001851288885516328 xnorm=1 time=0.7894872000000001 seconds
+iteration 13: delta=0.001399696925243255 xnorm=1 time=0.7934201000000001 seconds
+iteration 14: delta=0.001071123978321685 xnorm=1 time=0.7971273000000001 seconds
+iteration 15: delta=0.0008280205449419439 xnorm=1 time=0.8052233000000001 seconds
+iteration 16: delta=0.0006460338997599027 xnorm=1 time=0.7972836000000001 seconds
+iteration 17: delta=0.0005078862430660688 xnorm=1 time=0.7863365 seconds
+iteration 18: delta=0.0004020454432663854 xnorm=1 time=0.7871525 seconds
+iteration 19: delta=0.0003200220531273052 xnorm=1 time=0.7905840000000001 seconds
+iteration 20: delta=0.0002561035425722453 xnorm=1 time=0.8006402 seconds
+iteration 21: delta=0.0002058563842082391 xnorm=1 time=0.7937838 seconds
+iteration 22: delta=0.0001661960674805028 xnorm=1 time=0.7891495000000001 seconds
+iteration 23: delta=0.0001346758608044258 xnorm=1 time=0.7854031 seconds
+iteration 24: delta=0.0001095511853903326 xnorm=1 time=0.7886139000000001 seconds
+iteration 25: delta=8.940948116359607e-05 xnorm=1 time=0.7902136000000001 seconds
+iteration 26: delta=7.32182095981942e-05 xnorm=1 time=0.7974018 seconds
+iteration 27: delta=6.013590872500203e-05 xnorm=1 time=0.7959532 seconds
+iteration 28: delta=4.954302424773071e-05 xnorm=1 time=0.7842085000000001 seconds
+iteration 29: delta=4.092457696007193e-05 xnorm=1 time=0.7915861000000001 seconds
+iteration 30: delta=3.390131675970972e-05 xnorm=1 time=0.8097005 seconds
+iteration 31: delta=2.814976442581824e-05 xnorm=1 time=0.8152395 seconds
+iteration 32: delta=2.343393793210802e-05 xnorm=1 time=0.7863208 seconds
+iteration 33: delta=1.954686250390362e-05 xnorm=1 time=0.7897151 seconds
+iteration 34: delta=1.634114927627568e-05 xnorm=1 time=0.7863583000000001 seconds
+iteration 35: delta=1.368265322539238e-05 xnorm=1 time=0.8071383000000001 seconds
+iteration 36: delta=1.147463477572372e-05 xnorm=1 time=0.791262 seconds
+iteration 37: delta=9.630987849993379e-06 xnorm=1 time=0.7936876 seconds
+iteration 38: delta=8.091435042657739e-06 xnorm=1 time=0.7861104000000001 seconds
+iteration 39: delta=6.80111842526055e-06 xnorm=1 time=0.7866478 seconds
+iteration 40: delta=5.719866935232524e-06 xnorm=1 time=0.7897641000000001 seconds
+iteration 41: delta=4.811506943396017e-06 xnorm=1 time=0.7934181 seconds
+iteration 42: delta=4.049248802325172e-06 xnorm=1 time=0.8112558000000001 seconds
+iteration 43: delta=3.408405472290978e-06 xnorm=1 time=0.8092038 seconds
+iteration 44: delta=2.870229805695641e-06 xnorm=1 time=0.7886167000000001 seconds
+iteration 45: delta=2.417546388594067e-06 xnorm=1 time=0.7925592 seconds
+iteration 46: delta=2.036979793344945e-06 xnorm=1 time=0.7935256000000001 seconds
+iteration 47: delta=1.716455467516161e-06 xnorm=1 time=0.7927943000000001 seconds
+iteration 48: delta=1.44677116275744e-06 xnorm=1 time=0.7904776 seconds
+iteration 49: delta=1.219528745087948e-06 xnorm=1 time=0.7900586000000001 seconds
+iteration 50: delta=1.028236978539547e-06 xnorm=1 time=0.7849932000000001 seconds
+iteration 51: delta=8.670014603932135e-07 xnorm=1 time=0.7971534 seconds
+iteration 52: delta=7.312213946900015e-07 xnorm=1 time=0.7906523000000001 seconds
+iteration 53: delta=6.167411758657822e-07 xnorm=1 time=0.7967213000000001 seconds
+iteration 54: delta=5.202962305455957e-07 xnorm=1 time=0.7932637 seconds
+iteration 55: delta=4.389596449753509e-07 xnorm=1 time=0.7829925000000001 seconds
+iteration 56: delta=3.704127805820562e-07 xnorm=1 time=0.7955212 seconds
+iteration 57: delta=3.125895608975958e-07 xnorm=1 time=0.7922998 seconds
+iteration 58: delta=2.638433807403565e-07 xnorm=1 time=0.7929427 seconds
+iteration 59: delta=2.2271270167922e-07 xnorm=1 time=0.7956962000000001 seconds
+iteration 60: delta=1.880276086198809e-07 xnorm=1 time=0.7849929 seconds
+iteration 61: delta=1.587547463316179e-07 xnorm=1 time=0.8187904 seconds
+iteration 62: delta=1.340625948097499e-07 xnorm=1 time=0.7992213 seconds
+iteration 63: delta=1.132189010991919e-07 xnorm=1 time=0.7938802 seconds
+iteration 64: delta=9.563164910840323e-08 xnorm=1 time=0.7962058000000001 seconds
+
+Total time:61.042624 seconds
+Total iterate time:52.0160832 seconds
+Total seq time:9.026540799999999 seconds
+Type: default
+Format: CSR
+Input file: /mnt/d/Users/Jorta/Documents/Uni/4thYear/CSC3021_Concurrent_Programming/Assignments/graphs/LiveJournal_dir.csr
+GraphType format
+Reading input: 6.7746724 seconds
+Initialisation: 0.09718360000000001 seconds
+iteration 1: delta=0.7657405697817449 xnorm=1 time=0.316469 seconds
+iteration 2: delta=0.2427457202670431 xnorm=1 time=0.2821842 seconds
+iteration 3: delta=0.08351246007930323 xnorm=1 time=0.2860561 seconds
+iteration 4: delta=0.04138479663035653 xnorm=1 time=0.2807826 seconds
+iteration 5: delta=0.0233567781382293 xnorm=1 time=0.2817191 seconds
+iteration 6: delta=0.01465310248268642 xnorm=1 time=0.2847549 seconds
+iteration 7: delta=0.009684181092524967 xnorm=1 time=0.2912498 seconds
+iteration 8: delta=0.006645481565488927 xnorm=1 time=0.2816569 seconds
+iteration 9: delta=0.004687077085613662 xnorm=1 time=0.2815936 seconds
+iteration 10: delta=0.003379595920608531 xnorm=1 time=0.2913128 seconds
+iteration 11: delta=0.002481399280021459 xnorm=1 time=0.2817854 seconds
+iteration 12: delta=0.001851288885516328 xnorm=1 time=0.2820452 seconds
+iteration 13: delta=0.001399696925243255 xnorm=1 time=0.2856804 seconds
+iteration 14: delta=0.001071123978321686 xnorm=1 time=0.2814756 seconds
+iteration 15: delta=0.0008280205449419441 xnorm=1 time=0.2815403 seconds
+iteration 16: delta=0.0006460338997599028 xnorm=1 time=0.28169 seconds
+iteration 17: delta=0.0005078862430660689 xnorm=1 time=0.2932053 seconds
+iteration 18: delta=0.000402045443266385 xnorm=1 time=0.2832566 seconds
+iteration 19: delta=0.0003200220531273053 xnorm=1 time=0.2809146 seconds
+iteration 20: delta=0.0002561035425722452 xnorm=1 time=0.288853 seconds
+iteration 21: delta=0.0002058563842082388 xnorm=1 time=0.2840415 seconds
+iteration 22: delta=0.000166196067480502 xnorm=1 time=0.287379 seconds
+iteration 23: delta=0.000134675860804425 xnorm=1 time=0.2929469 seconds
+iteration 24: delta=0.0001095511853903329 xnorm=1 time=0.2798212 seconds
+iteration 25: delta=8.940948116359585e-05 xnorm=1 time=0.283194 seconds
+iteration 26: delta=7.32182095981949e-05 xnorm=1 time=0.2873999 seconds
+iteration 27: delta=6.013590872500285e-05 xnorm=1 time=0.2948256 seconds
+iteration 28: delta=4.954302424773042e-05 xnorm=1 time=0.2816826 seconds
+iteration 29: delta=4.092457696007126e-05 xnorm=1 time=0.2818533 seconds
+iteration 30: delta=3.390131675970864e-05 xnorm=1 time=0.2913737 seconds
+iteration 31: delta=2.81497644258183e-05 xnorm=1 time=0.2878525 seconds
+iteration 32: delta=2.34339379321075e-05 xnorm=1 time=0.2805503 seconds
+iteration 33: delta=1.954686250390318e-05 xnorm=1 time=0.301625 seconds
+iteration 34: delta=1.634114927627526e-05 xnorm=1 time=0.2800021 seconds
+iteration 35: delta=1.368265322533178e-05 xnorm=1 time=0.28263 seconds
+iteration 36: delta=1.147463477574444e-05 xnorm=1 time=0.2875068 seconds
+iteration 37: delta=9.630987850001031e-06 xnorm=1 time=0.2853492 seconds
+iteration 38: delta=8.091435042663527e-06 xnorm=1 time=0.2813546 seconds
+iteration 39: delta=6.801118425264186e-06 xnorm=1 time=0.2796753 seconds
+iteration 40: delta=5.719866935236529e-06 xnorm=1 time=0.2851876 seconds
+iteration 41: delta=4.811506943399091e-06 xnorm=1 time=0.2834268 seconds
+iteration 42: delta=4.049248802328943e-06 xnorm=1 time=0.282765 seconds
+iteration 43: delta=3.408405472292823e-06 xnorm=1 time=0.287477 seconds
+iteration 44: delta=2.870229805697807e-06 xnorm=1 time=0.2821831 seconds
+iteration 45: delta=2.417546388595389e-06 xnorm=1 time=0.2812539 seconds
+iteration 46: delta=2.036979793346919e-06 xnorm=1 time=0.2880732 seconds
+iteration 47: delta=1.716455467616396e-06 xnorm=1 time=0.2829233 seconds
+iteration 48: delta=1.446771162662946e-06 xnorm=1 time=0.2805238 seconds
+iteration 49: delta=1.219528745096468e-06 xnorm=1 time=0.2827884 seconds
+iteration 50: delta=1.028236978539351e-06 xnorm=1 time=0.2829734 seconds
+iteration 51: delta=8.670014603929797e-07 xnorm=1 time=0.2838814 seconds
+iteration 52: delta=7.312213946898196e-07 xnorm=1 time=0.284867 seconds
+iteration 53: delta=6.167411758646451e-07 xnorm=1 time=0.2970546 seconds
+iteration 54: delta=5.202962305454779e-07 xnorm=1 time=0.2850584 seconds
+iteration 55: delta=4.3895964497438e-07 xnorm=1 time=0.2821351 seconds
+iteration 56: delta=3.704127805812956e-07 xnorm=1 time=0.287923 seconds
+iteration 57: delta=3.125895608965952e-07 xnorm=1 time=0.2837775 seconds
+iteration 58: delta=2.638433807406989e-07 xnorm=1 time=0.2799735 seconds
+iteration 59: delta=2.227127016787043e-07 xnorm=1 time=0.2814746 seconds
+iteration 60: delta=1.880276086195917e-07 xnorm=1 time=0.290444 seconds
+iteration 61: delta=1.587547463309399e-07 xnorm=0.9999999999999999 time=0.2802393 seconds
+iteration 62: delta=1.340625948096563e-07 xnorm=1 time=0.2798056 seconds
+iteration 63: delta=1.132189010997474e-07 xnorm=1 time=0.2914542 seconds
+iteration 64: delta=9.563164910801421e-08 xnorm=0.9999999999999999 time=0.2814837 seconds
+
+Total time:26.3278653 seconds
+Total iterate time:19.4558894 seconds
+Total seq time:6.871975900000002 seconds
+Type: default
+Format: CSC
+Input file: /mnt/d/Users/Jorta/Documents/Uni/4thYear/CSC3021_Concurrent_Programming/Assignments/graphs/LiveJournal_dir.csc
+GraphType format
+Reading input: 6.836357100000001 seconds
+Initialisation: 0.2550323 seconds
+iteration 1: delta=0.7657405697817449 xnorm=1 time=0.2670507 seconds
+iteration 2: delta=0.2427457202670431 xnorm=1 time=0.2422813 seconds
+iteration 3: delta=0.08351246007930323 xnorm=1 time=0.2409628 seconds
+iteration 4: delta=0.04138479663035653 xnorm=1 time=0.2369694 seconds
+iteration 5: delta=0.0233567781382293 xnorm=1 time=0.2336506 seconds
+iteration 6: delta=0.01465310248268642 xnorm=1 time=0.2445815 seconds
+iteration 7: delta=0.009684181092524967 xnorm=1 time=0.2358229 seconds
+iteration 8: delta=0.006645481565488927 xnorm=1 time=0.2340582 seconds
+iteration 9: delta=0.004687077085613662 xnorm=1 time=0.2390002 seconds
+iteration 10: delta=0.003379595920608531 xnorm=1 time=0.2418664 seconds
+iteration 11: delta=0.002481399280021459 xnorm=1 time=0.2376043 seconds
+iteration 12: delta=0.001851288885516328 xnorm=1 time=0.2338604 seconds
+iteration 13: delta=0.001399696925243255 xnorm=1 time=0.2379115 seconds
+iteration 14: delta=0.001071123978321686 xnorm=1 time=0.2386178 seconds
+iteration 15: delta=0.0008280205449419441 xnorm=1 time=0.2363124 seconds
+iteration 16: delta=0.0006460338997599028 xnorm=1 time=0.2365533 seconds
+iteration 17: delta=0.0005078862430660689 xnorm=1 time=0.2366351 seconds
+iteration 18: delta=0.000402045443266385 xnorm=1 time=0.2456306 seconds
+iteration 19: delta=0.0003200220531273053 xnorm=1 time=0.2362838 seconds
+iteration 20: delta=0.0002561035425722452 xnorm=1 time=0.2408815 seconds
+iteration 21: delta=0.0002058563842082388 xnorm=1 time=0.2411904 seconds
+iteration 22: delta=0.000166196067480502 xnorm=1 time=0.2463915 seconds
+iteration 23: delta=0.000134675860804425 xnorm=1 time=0.2348851 seconds
+iteration 24: delta=0.0001095511853903329 xnorm=1 time=0.2383834 seconds
+iteration 25: delta=8.940948116359585e-05 xnorm=1 time=0.2415725 seconds
+iteration 26: delta=7.32182095981949e-05 xnorm=1 time=0.235956 seconds
+iteration 27: delta=6.013590872500285e-05 xnorm=1 time=0.2340209 seconds
+iteration 28: delta=4.954302424773042e-05 xnorm=1 time=0.2439888 seconds
+iteration 29: delta=4.092457696007126e-05 xnorm=1 time=0.2404049 seconds
+iteration 30: delta=3.390131675970864e-05 xnorm=1 time=0.2362914 seconds
+iteration 31: delta=2.81497644258183e-05 xnorm=1 time=0.2336145 seconds
+iteration 32: delta=2.34339379321075e-05 xnorm=1 time=0.233344 seconds
+iteration 33: delta=1.954686250390318e-05 xnorm=1 time=0.2405664 seconds
+iteration 34: delta=1.634114927627526e-05 xnorm=1 time=0.2385881 seconds
+iteration 35: delta=1.368265322533178e-05 xnorm=1 time=0.2370246 seconds
+iteration 36: delta=1.147463477574444e-05 xnorm=1 time=0.2339155 seconds
+iteration 37: delta=9.630987850001031e-06 xnorm=1 time=0.2417994 seconds
+iteration 38: delta=8.091435042663527e-06 xnorm=1 time=0.2381404 seconds
+iteration 39: delta=6.801118425264186e-06 xnorm=1 time=0.2342825 seconds
+iteration 40: delta=5.719866935236529e-06 xnorm=1 time=0.2335394 seconds
+iteration 41: delta=4.811506943399091e-06 xnorm=1 time=0.2384998 seconds
+iteration 42: delta=4.049248802328943e-06 xnorm=1 time=0.2358684 seconds
+iteration 43: delta=3.408405472292823e-06 xnorm=1 time=0.2345415 seconds
+iteration 44: delta=2.870229805697807e-06 xnorm=1 time=0.2349178 seconds
+iteration 45: delta=2.417546388595389e-06 xnorm=1 time=0.2383999 seconds
+iteration 46: delta=2.036979793346919e-06 xnorm=1 time=0.2372483 seconds
+iteration 47: delta=1.716455467616396e-06 xnorm=1 time=0.2447589 seconds
+iteration 48: delta=1.446771162662946e-06 xnorm=1 time=0.2370442 seconds
+iteration 49: delta=1.219528745096468e-06 xnorm=1 time=0.2456874 seconds
+iteration 50: delta=1.028236978539351e-06 xnorm=1 time=0.238997 seconds
+iteration 51: delta=8.670014603929797e-07 xnorm=1 time=0.2345563 seconds
+iteration 52: delta=7.312213946898196e-07 xnorm=1 time=0.2581212 seconds
+iteration 53: delta=6.167411758646451e-07 xnorm=1 time=0.2370134 seconds
+iteration 54: delta=5.202962305454779e-07 xnorm=1 time=0.2350058 seconds
+iteration 55: delta=4.3895964497438e-07 xnorm=1 time=0.2354543 seconds
+iteration 56: delta=3.704127805812956e-07 xnorm=1 time=0.2389722 seconds
+iteration 57: delta=3.125895608965952e-07 xnorm=1 time=0.2462065 seconds
+iteration 58: delta=2.638433807406989e-07 xnorm=1 time=0.2368816 seconds
+iteration 59: delta=2.227127016787043e-07 xnorm=1 time=0.2368362 seconds
+iteration 60: delta=1.880276086195917e-07 xnorm=1 time=0.2405366 seconds
+iteration 61: delta=1.587547463309399e-07 xnorm=0.9999999999999999 time=0.2446032 seconds
+iteration 62: delta=1.340625948096563e-07 xnorm=1 time=0.2357913 seconds
+iteration 63: delta=1.132189010997474e-07 xnorm=1 time=0.2379971 seconds
+iteration 64: delta=9.563164910801421e-08 xnorm=0.9999999999999999 time=0.2408657 seconds
+
+Total time:23.586133 seconds
+Total iterate time:16.4946334 seconds
+Total seq time:7.091499599999999 seconds
